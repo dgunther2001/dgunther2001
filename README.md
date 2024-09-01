@@ -5,7 +5,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 - **[Pyroxene](https://github.com/dgunther2001/pyroxene_lang):**  
   To understand how programming languages work, I've taken a deep dive with my latest project into the LLVM, developing my own graph-based programming language, which I hope to eventually build a pipeline through LLVM directly to ARM assembly.
 
-- **[Hardware Simulation](https://github.com/dgunther2001/BIOS_Hardware_Simulation):**  
+- **[Boot Simulation](https://github.com/dgunther2001/BIOS_Hardware_Simulation):**  
   I've also always been interested in the computer boot process, the "here be dragons" territory where circuits of hardware components and electrical signals are somehow orchestrated together to create the environment I am writing this file in. As a secondary project, I have started to build a simulator in C++ that starts with logic gates and latches, which will go through and execute a simulated boot process with minimal abstraction.
 
 ### Relevant Skills:
