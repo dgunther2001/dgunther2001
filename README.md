@@ -16,4 +16,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 ### Connect with Me:
 
 - [Personal Website](https://danielgunther.com)
-- [LinkedIn](https://www.linkedin.com/in/daniel-gunther-1b035a221/)
+- [LinkedIn](https://www.linkedin.com/in/daniel-gunther-1b035a221/)  
+
+### My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&hide_progress=true)
