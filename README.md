@@ -10,7 +10,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 - **LLVM Integration:** Direct compilation to LLVM IR, with plans to extend to ARM assembly.
 - **Customizable and Modular:** Flexibility to modify and overwrite built-in graph algorithms and representations.
 
-#### &emsp; Currently Implemented:
+##### &emsp; Currently Implemented:
 - **Lexer:** Tokenizer of custom syntax.
 - **Parser/AST:** Token parsing into an Abstract Syntax Tree that represents Pyroxene's grammar.
 - **LLVM IR:** Generation of global variables.
