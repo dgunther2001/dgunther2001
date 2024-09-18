@@ -6,13 +6,13 @@ I'm a computer scientist and geologist passionate about understanding not just w
 
 #### 🌟 **[Pyroxene](https://github.com/dgunther2001/pyroxene_lang):** 🌟
 ##### &emsp; Planned Core Features:
-- **Graph-Centric:** First-class support for graphs with built-in algorithms like BFS, and DFS.
+- **Graph-Centric:** Support for graphs with built-in algorithms like BFS, and DFS.
 - **LLVM Integration:** Direct compilation to LLVM IR, with plans to extend to ARM assembly.
 - **Customizable and Modular:** Flexibility to modify and overwrite built-in graph algorithms and representations.
 
 #### &emsp; Currently Implemented:
 - **Lexer:** Tokenizer of custom syntax.
-- **Parser/AST:** Tree-like parsing a representation of Pyroxene's grammar.
+- **Parser/AST:** Tree-like parsing into an Abstract Syntax Tree that represents Pyroxene's grammar.
 - **LLVM IR:** Generation of global variables.
 
 ##### &emsp; Roadmap:
