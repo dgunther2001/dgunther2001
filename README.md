@@ -19,4 +19,4 @@ I'm a computer scientist and geologist passionate about understanding not just w
 - [LinkedIn](https://www.linkedin.com/in/daniel-gunther-1b035a221/)  
 
 ### My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&layout=compact&hide=javascript,html,scss)
