@@ -4,7 +4,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 
 ---
 
-- #### 🌟 **[Pyroxene](https://github.com/dgunther2001/pyroxene_lang):** 🌟
+#### 🌟 **[Pyroxene](https://github.com/dgunther2001/pyroxene_lang):** 🌟
 ##### &emsp; Planned Core Features:
 - **Graph-Centric:** First-class support for graphs with built-in algorithms like BFS, and DFS.
 - **LLVM Integration:** Direct compilation to LLVM IR, with plans to extend to ARM assembly.
@@ -29,7 +29,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 - **Programming Languages:** C, C++, Assembly, Rust, Java, Python
 - **Technologies:** LLVM, Compiler Development, Git, Docker, CI/CD
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&layout=compact&hide=javascript,html,scss)
+&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&layout=compact&hide=javascript,html,scss)
 
 ---
 
