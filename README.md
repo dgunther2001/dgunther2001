@@ -20,7 +20,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 - ARM assembly pipeline integration.
 - Comprehensive standard library development.
 
-&emsp; This project is the **cornerstone of my portfolio** and illustrates my **intellectual curiosity**, as well as my **acumen with low level systems.**
+&emsp; This project is the **cornerstone of my portfolio** and illustrates my **intellectual curiosity** and **acumen with low level systems.**
 
 ---
 
