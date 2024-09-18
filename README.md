@@ -12,7 +12,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 
 #### &emsp; Currently Implemented:
 - **Lexer:** Tokenizer of custom syntax.
-- **Parser/AST:** Tree-like parsing into an Abstract Syntax Tree that represents Pyroxene's grammar.
+- **Parser/AST:** Token parsing into an Abstract Syntax Tree that represents Pyroxene's grammar.
 - **LLVM IR:** Generation of global variables.
 
 ##### &emsp; Roadmap:
