@@ -13,7 +13,7 @@ I'm a computer scientist and geologist passionate about understanding not just w
 ##### &emsp; Currently Implemented:
 - **Lexer:** Tokenizer of custom syntax.
 - **Parser/AST:** Token parsing into an Abstract Syntax Tree that represents Pyroxene's grammar.
-- **LLVM IR:** Generation of global variables.
+- **LLVM IR:** Generation of variables (declarations and definitions), as well as function declarations.
 
 ##### &emsp; Roadmap:
 - IR generation for the rest of Pyroxene's grammar.
