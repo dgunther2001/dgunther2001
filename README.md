@@ -29,7 +29,9 @@ I'm a computer scientist and geologist passionate about understanding not just w
 - **Programming Languages:** C, C++, Assembly, Rust, Java, Python
 - **Technologies:** LLVM, Compiler Development, Git, Docker, CI/CD
 
-&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&layout=compact&hide=javascript,html,scss)
+&emsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=dgunther2001&currStreakNum=2FD3EB&fire=pink&date_format=[Y.]n.j&theme=github-dark)](https://git.io/streak-stats)
+
+&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgunther2001&layout=compact&hide=javascript,html,scss&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=39d353&border_color=39d353)
 
 ---
 
